@@ -54,8 +54,8 @@ I am a dedicated Full-Stack Developer Enthusiast with a background in Informatio
 
 ## 📝 Latest Projects
 
-- **[JAGAHATI INDUSTRIES](https://github.com/marcelinorahul/project1):** Brief description of the project, highlighting its goals and the technologies used.
-- **[Project Name 2](https://github.com/marcelinorahul/project2):** Brief description of the project, focusing on its key features and the challenges it addressed.
+- **[JAGAHATI INDUSTRIES](https://github.com/marcelinorahul/jagahatiindustri):** Brief description of the project, highlighting its goals and the technologies used.
+- **[SIPANJI](https://github.com/marcelinorahul/SIPANJI):** Brief description of the project, focusing on its key features and the challenges it addressed.
 
 ## 💼 Professional Interests
 
