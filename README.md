@@ -13,7 +13,7 @@ I am a dedicated Full-Stack Developer Enthusiast with a background in Informatio
 - 💬 **Ask Me About:** Full-stack development, database management, or anything tech-related.
 - 📫 **How to Reach Me:** [rahulmarselino171@gmail.com](mailto:rahulmarselino171@gmail.com)
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I have a strong interest in ethical hacking and cybersecurity.
+- ⚡ **Fun Fact:** I have a strong interest in design UI/UX.
 
 ## 🛠️ Languages and Tools
 
