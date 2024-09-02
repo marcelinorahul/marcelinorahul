@@ -1,61 +1,67 @@
-# Hi there, I'm Rahul Marcellino Holis 👋
+# Welcome, I'm Rahul Marcellino Holis 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/marcelinorahul?label=Follow&style=social)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=marcelinorahul.marcelinorahul)
 
 ## 🚀 About Me
 
-I am a dedicated Full-Stack Developer Enthusiast with a background in Information Systems. My expertise spans across multiple technologies, and I am passionate about building scalable, efficient, and user-friendly applications. I am committed to continuous learning and professional development, and I thrive in environments that encourage innovation and collaboration.
+I'm a Full-Stack Developer Enthusiast with a strong foundation in Information Systems. I focus on developing scalable, efficient, and user-friendly applications. My approach to development is grounded in continuous learning, collaboration, and a commitment to staying on the cutting edge of technology.
 
-- 🔭 I’m currently working on: Developing advanced web applications using modern frameworks.
-- 🌱 I’m currently learning: Dart for Flutter development and deepening my knowledge in NoSQL databases.
-- 👯 I’m looking to collaborate on: Open-source projects and innovative web or mobile applications.
-- 💬 Ask me about: Full-stack development, database management, or anything tech-related.
-- 📫 How to reach me: [rahulmarselino171@gmail.com](mailto:rahulmarselino171@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a strong interest in ethical hacking.
+- 🔭 **Current Focus:** Advanced web applications using modern frameworks.
+- 🌱 **Learning:** Dart for Flutter and expanding my expertise in NoSQL databases.
+- 👯 **Open to Collaboration:** Innovative web/mobile applications and open-source projects.
+- 💬 **Ask Me About:** Full-stack development, database management, or tech in general.
+- 📫 **Contact Me:** [rahulmarselino171@gmail.com](mailto:rahulmarselino171@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Interests:** Cybersecurity and ethical hacking.
 
-## 🛠️ Languages and Tools
+## 🛠️ My Toolbox
 
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-333?style=for-the-badge&logo=dart)
-![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-333?style=for-the-badge&logo=mongodb)
-![Hack](https://img.shields.io/badge/-Hack-333?style=for-the-badge&logo=hack)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=for-the-badge&logo=visual-studio-code)
+- **Languages:** Python, JavaScript, Dart, SQL, NoSQL
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Web Development:** HTML5, CSS3, Bootstrap
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, VS Code, Docker
+- **Others:** Hack, WebSocket, RESTful APIs
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelinorahul&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelinorahul&show_icons=true&theme=graywhite&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinorahul&layout=compact&theme=graywhite" alt="Top Languages" />
+</p>
 
-## 🔥 Top Languages
+## 🌐 Let's Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinorahul&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-marcellinno-567719222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/c/RahulMarcellino" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/rahuulmrsl" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:rahulmarselino171@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 🌐 Connect with Me
+## 📝 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahul-marcellinno-567719222/)
-[![YouTube](https://img.shields.io/badge/-YouTube-333?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/RahulMarcellino)
-[![Instagram](https://img.shields.io/badge/-Instagram-333?style=for-the-badge&logo=instagram)](https://www.instagram.com/rahuulmrsl)
-[![Email](https://img.shields.io/badge/-Email-333?style=for-the-badge&logo=gmail)](mailto:rahulmarselino171@gmail.com)
-
-## 📝 Latest Projects
-- **[Project Name 1](https://github.com/marcelinorahul/project1):** Brief description of the project.
-- **[Project Name 2](https://github.com/marcelinorahul/project2):** Brief description of the project.
+- **[Project Name 1](https://github.com/marcelinorahul/project1):** Brief description of the project, highlighting its purpose and technologies used.
+- **[Project Name 2](https://github.com/marcelinorahul/project2):** Brief description of the project, focusing on key features and challenges solved.
 
 ## 💼 Professional Interests
 
-I am actively exploring opportunities in full-stack development, with a keen interest in projects that involve:
-- Web and Mobile Application Development
-- Database Architecture and Management
-- AI and Machine Learning Integration
+I am passionate about contributing to and leading projects in:
+- **Web & Mobile Development:** Creating responsive, user-centric applications.
+- **Database Management:** Architecting robust and scalable database solutions.
+- **AI & Machine Learning:** Integrating AI/ML into practical applications to solve real-world problems.
+- **Cybersecurity:** Exploring ethical hacking and cybersecurity strategies to build secure systems.
 
-I am also interested in connecting with professionals who share a passion for technology, innovation, and continuous learning.
+I look forward to connecting with professionals and collaborating on impactful projects that push the boundaries of technology.
 
+---
+
+### Design Improvements:
+- **Color Palette:** A neutral, professional color scheme that’s easy on the eyes.
+- **Centered Stats & Connect Section:** Aligning elements to the center gives a clean, organized appearance.
+- **Bullet Points:** Clear and concise bullet points in the "About Me" and "Professional Interests" sections improve readability.
+- **Toolbox Section:** Grouping tools and technologies into categories for a clearer overview.
+- **Featured Projects:** A simple format to highlight key projects with brief descriptions.
+
+This design is intended to present you as a seasoned and skilled developer with a professional and polished look.
