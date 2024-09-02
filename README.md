@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul Marcellino Holis 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/marcelinorahul?label=Follow&style=social)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=marcelinorahul.marcelinorahul)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=marcelinorahul.marcelinorahul)
 
 ## 🚀 About Me
 
