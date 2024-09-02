@@ -38,7 +38,7 @@ I am a dedicated Full-Stack Developer Enthusiast with a background in Informatio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelinorahul&show_icons=true&theme=graywhite&count_private=true" alt="GitHub stats" />
+  [<img alt="rahul marcellino's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcelinorahul&count_private=true&show_icons=true&theme=tokyonight">](#)/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelinorahul&layout=compact&theme=graywhite" alt="Top Languages" />
 </p>
 
